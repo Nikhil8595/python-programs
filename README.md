@@ -1,2 +1,2 @@
 # python-programs
-some python exams 
+some python examples
